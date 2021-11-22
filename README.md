@@ -6,7 +6,7 @@ Background Information PowerCo is a major gas and electricity utility that suppl
 
 ## Methods used
 * Business Understanding & Problem Framing
-- To understand what is going on at the client and think about how you would approach a problem like this to test this specific hypothesis.
+-To understand what is going on at the client and think about how you would approach a problem like this to test this specific hypothesis.
 
 * Exploratory Data Analysis & Data Cleaning
 * Feature Engineering
@@ -14,7 +14,7 @@ Background Information PowerCo is a major gas and electricity utility that suppl
 * Insights & Recommendation
 
 
-##Technologies used
+## Technologies used
 * MS Excel
 * MS Word
 * Python
